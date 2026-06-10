@@ -65,6 +65,21 @@ Rentabilidade: 15.00%
 ```
 
 ## Autor
+## Exemplo de Saída
 
+```text
+=== Carteira Inteligente de Investimentos ===
+Ativo: ITUB4
+Quantidade: 200
+Preço Médio: R$ 30.00
+Preço Atual: R$ 34.50
+Valor Investido: R$ 6000.00
+Valor Atual: R$ 6900.00
+Rentabilidade: 15.00%
+```
+
+## Autor
+
+Patrick Araujo Santana
 Patrick Araujo Santana
 # Carteira_Inteligente_rust
